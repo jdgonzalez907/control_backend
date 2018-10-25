@@ -1,2 +1,7 @@
+# Directorios
 .env/
 .vscode/
+__pycache__/
+
+# Extensiones de archivos
+*.pyc
